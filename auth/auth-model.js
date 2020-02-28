@@ -1,4 +1,6 @@
+// Imports
 const db = require("../database/dbConfig.js");
+
 
 module.exports = {
   addUser,
